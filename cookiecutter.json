@@ -10,7 +10,7 @@
     "copy_hooks": "no",
     "_extensions": ["jinja2_time.TimeExtension"],
     "_copy_without_render": [
-        "cookiecutter.json",
+        "cookiecutter.yml",
         "{{cookiecutter.project_slug}}"
     ]
 }
