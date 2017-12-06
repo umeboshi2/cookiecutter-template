@@ -13,4 +13,4 @@ Generate a new Cookiecutter template layout: `cookiecutter gh:{{ cookiecutter.gi
 
 License
 -------
-This project is licensed under the terms of the [MIT License](/LICENSE)
+This project is in the public domain.

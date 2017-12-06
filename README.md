@@ -2,6 +2,8 @@ cookiecutter-template
 =====================
 [Cookiecutter](https://github.com/audreyr/cookiecutter) template for creating a... cookiecutter template...    
 
+Slightly modified from https://github.com/eviweb/cookiecutter-template
+
 ##### Health status
 [![Travis CI - Build Status](https://travis-ci.org/eviweb/cookiecutter-template.svg)](https://travis-ci.org/eviweb/cookiecutter-template)
 [![Github - Last tag](https://img.shields.io/github/tag/eviweb/cookiecutter-template.svg)](https://github.com/eviweb/cookiecutter-template/tags)
@@ -12,7 +14,7 @@ Install `cookiecutter` command line: `pip install cookiecutter`
 
 Usage
 -----
-Generate a new Cookiecutter template layout: `cookiecutter gh:eviweb/cookiecutter-template`   
+Generate a new Cookiecutter template layout: `cookiecutter gh:umeboshi2/cookiecutter-template`   
 
 Special Features
 ----------------
